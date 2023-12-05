@@ -77,7 +77,7 @@ const footer = () => {
                             <Link href="https://www.linkedin.com/in/prime-john-clara-9a2963289/" target="blank">
                                 <h3 className="text-offwhite pr-6">Prime John Clara</h3>
                             </Link>
-                            <Link href="https://www.linkedin.com/in/john-paul-pacatang-337993289/">
+                            <Link href="https://www.linkedin.com/in/john-paul-pacatang-337993289/" target="blank">
                                 <h3 className="text-offwhite pl-6 border-solid border-l border-footer">John Paul Pacatang</h3>
                             </Link>
                         </div>
