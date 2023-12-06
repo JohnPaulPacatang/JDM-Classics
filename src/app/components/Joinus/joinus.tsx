@@ -6,8 +6,8 @@ const Join = () => {
 
                 <div className="text-center">
                     <h3 className="text-blue text-lg font-normal tracking-widest">JDM Enthusiasts, Unite!</h3>
-                    <h2 className="text-4xl sm:text-6xl font-bold my-6 leading-10"> Elevate Your Business<br />to New Heights.</h2>
-                    <p className="text-lightblack text-base font-normal">Ignite your entrepreneurial spirit with the power of JDM. Explore the rich history of innovation, from the resilient Golems to the relentless Zombies and the fascinating world of Raimi. Join us on this journey!</p>
+                    <h2 className="text-4xl sm:text-6xl font-bold my-6 leading-10">Turbocharge Your Business<br />for Unrivaled Success in the JDM Way.</h2>
+                    <p className="text-lightblack text-base mx-8 font-normal">Ignite your entrepreneurial spirit with the power of JDM. Explore the rich history of innovation, from the resilient Golems to the relentless Zombies and the fascinating world of Raimi. Join us on this journey!</p>
                 </div>
 
                 <div className="mx-auto max-w-4xl pt-5">
