@@ -16,11 +16,16 @@ const products: ProductType[] = [
     },
     {
         id: 2,
+        section: "And",
+        link: ['Brembo', 'Cusco Japan', 'Borla'],
+    },
+    {
+        id: 3,
         section: "Special thanks to:",
         link: ['Angie Mead King', 'Akira Naka', 'Ramon Bautista', 'Yuthana Kaewdang (Tito Mets)']
     },
     {
-        id: 3,
+        id: 4,
         section: "Others",
         link: ['Veilside', 'Top Secret Co., Ltd.', 'Liberty Walk', 'RWB / RAUH-Welt BEGRIFF' ]
     }
