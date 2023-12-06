@@ -12,7 +12,7 @@ const products: ProductType[] = [
     {
         id: 1,
         section: "Thanks to:",
-        link: ['Carporn Racing', 'Yokohama Tires', 'Eagle Glass and Aluminum', 'Brembo', 'Cusco Japan', 'Borla'],
+        link: ['Carporn Racing', 'Yokohama Tires', 'Eagle Glass and Aluminum'],
     },
     {
         id: 2,
