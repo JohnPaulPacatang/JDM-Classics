@@ -16,7 +16,7 @@ const products: ProductType[] = [
     },
     {
         id: 2,
-        section: "And",
+        section: "Also:",
         link: ['Brembo', 'Cusco Japan', 'Borla'],
     },
     {
