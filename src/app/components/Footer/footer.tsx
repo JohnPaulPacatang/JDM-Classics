@@ -11,23 +11,18 @@ interface ProductType {
 const products: ProductType[] = [
     {
         id: 1,
-        section: "Menu",
-        link: ['Home', 'Popular', 'About', 'Contact'],
+        section: "Thanks to:",
+        link: ['Carporn Racing', 'Yokohama Tires', 'Eagle Glass and Aluminum', 'Brembo', 'Cusco Japan', 'Borla'],
     },
     {
         id: 2,
-        section: "Category",
-        link: ['Design', 'Mockup', 'View all', 'Log In']
+        section: "Special thanks to:",
+        link: ['Angie Mead King', 'Akira Naka', 'Ramon Bautista', 'Yuthana Kaewdang (Tito Mets)']
     },
     {
         id: 3,
-        section: "Pages",
-        link: ['404', 'Instructions', 'License']
-    },
-    {
-        id: 4,
         section: "Others",
-        link: ['Styleguide', 'Changelog']
+        link: ['Veilside', 'Top Secret Co., Ltd.', 'Liberty Walk', 'RWB / RAUH-Welt BEGRIFF' ]
     }
 ]
 

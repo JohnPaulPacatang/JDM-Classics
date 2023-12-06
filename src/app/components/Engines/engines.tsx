@@ -5,7 +5,7 @@ const Engines = () => {
 
         <div className="mx-auto w-full max-w-7xl px-5 py-16 md:px-10 md:py-24 lg:py-32" id="engines-section">
             <h2 className="text-4xl sm:text-6xl font-bold text-center">Explore Our Collection <br /> of JDM Engines</h2>
-            <h3 className="text-2xl font-medium text-center pt-10 opacity-50">Discover a curated selection of high-performance JDM engines that embody precision and power.</h3>
+            <h3 className="text-2xl font-medium text-center pt-10 opacity-50">Shown here is top-tier automotive performance engineering from the land of the rising sun.</h3>
 
             <div className="grid justify-items-center gap-2 py-16 sm:grid-cols-2 md:grid-cols-3">
 
