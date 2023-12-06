@@ -45,7 +45,7 @@ const footer = () => {
                     {/* CLOUMN-2/3 */}
 
                     {products.map((product) => (
-                        <div key={product.id} className="group relative col-span-3">
+                        <div key={product.id} className="group relative col-span-2">
                             <p className="text-white text-xl font-extrabold mb-9">{product.section}</p>
                             <ul>
                                 {product.link.map((link: string, index: number) => (
